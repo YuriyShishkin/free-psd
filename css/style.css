@@ -775,10 +775,12 @@ body {
   letter-spacing: 0.5px;
   color: #fff;
 }
-#modal{
+
+#modal {
   width: 300px;
 }
-#modal input{
+
+#modal input {
   display: block;
   width: 100%;
   height: 40px;
@@ -789,6 +791,8 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
 }
-#modal input[type="submit"]{
+
+#modal input[type="submit"] {
   background-color: #ffc222;
+  border: none;
 }
